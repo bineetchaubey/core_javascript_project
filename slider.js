@@ -1,12 +1,14 @@
 
+/**
+ * Slider in plane javascript
+ * 
+ */
 
 // var currentIndex = 0;
 // var slider = document.querySelectorAll('.slider')
 //  slider.forEach((element,index)=>{
 //     element.style.left= `${index * 100}%`
 //  })
-
-
 
 //  var PreButton = document.createElement("span")
 //  PreButton.classList.add('prevbutton')
