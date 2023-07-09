@@ -1,9 +1,8 @@
 
 /**
- *  Program to calualte diffrence beteen hours and minutes
+ *  Program to calclate difference beteen hours and minutes
  * 
  */
-
 
 function minumumValue(x,y) {
     return x<y ? x : y
